@@ -66,6 +66,17 @@ body {
   opacity: 0.9;
 }
 
+.skills span {
+  display: inline-block;
+  padding: 10px 16px;
+  margin: 6px;
+  border-radius: 20px;
+  border: 1px solid #ddd;
+  background: white;
+  font-size: 14px;
+}
+
+
 /* Sections */
 .section {
   padding: 80px 60px;
@@ -152,4 +163,5 @@ body {
     padding: 60px 20px;
   }
 }
+
 
